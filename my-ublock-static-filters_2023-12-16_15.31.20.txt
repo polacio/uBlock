@@ -21,11 +21,6 @@ anime-bit.ru##div.flex.layer_box_center_blocks_right:nth-of-type(3)
 ||yastatic.net^$important
 ||vk.com^$domain=online-stars.org,important
 
-! 2021-10-04 https://hentailib.me
-||hentailib.me/service-workers/*$script,1p
-||hentailib.me/arch-star^$1p
-||hentailib.me/manifest.json$1p
-
 ! 2021-10-09 https://new.pik-comfort.ru
 @@||new-api.pik-software.ru^$domain=pik-comfort.ru
 
@@ -53,25 +48,12 @@ anime-fast.net##div.row:nth-of-type(2)
 ! 2023-05-24 https://lk.ofd.ru
 @@||sentry.ofd.ru^$xhr,domain=lk.ofd.ru
 
-! 2023-05-28 https://doumura.com
-doumura.com##.wdlxahdibuzwysurwpsovkzrneyrsnyvmfctllvbkguxvwnloqtdhurz.ryszvrkyevoumaexnpwbsvjxnvusxdtvhubrazzkagnstdhurz
-
 ! 2023-06-03 https://rezka.ag
 ||static.hdrezka.ac/templates/hdrezka/images/slava.jpg$image
-
-! 2023-07-16 https://www.eporner.com
-||www.eporner.com/dash-report.php$xhr,domain=www.eporner.com
 
 ! 2023-08-14 https://yandex.ru
 @@||mc.yandex.ru/metrika/tag.js$script,1p
 
-! 2023-09-09 https://www.wnacg.com
-||www.wnacg.com/themes/weitu/images/hr.png$image
-||img4.qy0.ru/data/game/202309/%E*%E5%*-1170*120.gif$image
-
-! 2023-12-05 https://jmcomic.me
-jmcomic.me##.hidden-lg.div_sticky2
-jmcomic.me##.e8c78e-4_b
 
 ! 2023-12-06 https://j-vqsj.123rutor.su
 ||j-vqsj.123rutor.su/kimjongun/psyduck3/?srson$subdocument
