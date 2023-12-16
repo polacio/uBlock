@@ -1,0 +1,79 @@
+! 2020-12-07 https://hentaikun.com
+hentaikun.com###chap_top_ads
+||гибдд.рф/media/gibdd/build/js/nocopy.js$script,first-party
+
+! 2021-05-08 https://anime-bit.ru
+anime-bit.ru##div.flex.layer_box_center_blocks_right:nth-of-type(3)
+
+! 2021-07-03 https://as99.online-stars.org
+||reinderk.com/sync$subdocument,domain=online-stars.org
+||reinderk.com^$domain=online-stars.org,important
+@@||online-stars.org/videoas.php$domain=online-stars.org
+@@||online-stars.org/test/player2/*$subdocument,1p
+||santils.com^$domain=online-stars.org,important
+
+
+! 2021-07-03 https://vk.com
+||vk.com^$1p,domain=online-stars.org
+
+! 2021-07-18 https://as94.online-stars.org
+||adrokt.com^$important
+||yastatic.net^$important
+||vk.com^$domain=online-stars.org,important
+
+! 2021-10-04 https://hentailib.me
+||hentailib.me/service-workers/*$script,1p
+||hentailib.me/arch-star^$1p
+||hentailib.me/manifest.json$1p
+
+! 2021-10-09 https://new.pik-comfort.ru
+@@||new-api.pik-software.ru^$domain=pik-comfort.ru
+
+! 2021-11-16 https://es.pfrf.ru
+@@||es.pfrf.ru^$1p
+
+! 2021-11-26 https://anime-fast.net
+anime-fast.net##div.row:nth-of-type(2)
+
+! 2022-01-09 https://truyen210.net
+||truyen210.net/storage/photos$image
+
+! 2022-05-20 https://yandex.ru
+@@||yastatic.net/*$image,domain=yandex.ru
+
+! 2022-08-22 https://anistar.org
+||anistar.org/templates/*$image
+
+! 2023-01-14 https://anime-bit.ru
+||anime-bit.ru/src/img/offers/*$image,1p
+
+! 2023-03-26 https://avgle.com
+||avgle.com$image
+
+! 2023-05-24 https://lk.ofd.ru
+@@||sentry.ofd.ru^$xhr,domain=lk.ofd.ru
+
+! 2023-05-28 https://doumura.com
+doumura.com##.wdlxahdibuzwysurwpsovkzrneyrsnyvmfctllvbkguxvwnloqtdhurz.ryszvrkyevoumaexnpwbsvjxnvusxdtvhubrazzkagnstdhurz
+
+! 2023-06-03 https://rezka.ag
+||static.hdrezka.ac/templates/hdrezka/images/slava.jpg$image
+
+! 2023-07-16 https://www.eporner.com
+||www.eporner.com/dash-report.php$xhr,domain=www.eporner.com
+
+! 2023-08-14 https://yandex.ru
+@@||mc.yandex.ru/metrika/tag.js$script,1p
+
+! 2023-09-09 https://www.wnacg.com
+||www.wnacg.com/themes/weitu/images/hr.png$image
+||img4.qy0.ru/data/game/202309/%E*%E5%*-1170*120.gif$image
+
+! 2023-12-05 https://jmcomic.me
+jmcomic.me##.hidden-lg.div_sticky2
+jmcomic.me##.e8c78e-4_b
+
+! 2023-12-06 https://j-vqsj.123rutor.su
+||j-vqsj.123rutor.su/kimjongun/psyduck3/?srson$subdocument
+||j-vqsj.123rutor.su/kimjongun/psyduck3/?srson$subdocument
+
